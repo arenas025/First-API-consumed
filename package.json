@@ -1,4 +1,4 @@
-{ "homepage": "https://github.com/arenas025/First-API-consumed",
+{ "homepage": "https://arenas025.github.io/First-API-consumed",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
